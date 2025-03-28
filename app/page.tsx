@@ -21,7 +21,7 @@ export default function Home() {
       </Head>
       <div className="w-full h-screen">
         <iframe
-          src="https://maily-template.framer.website/"
+          src="https://launchfolio.framer.website/"
           className="w-full h-full border-0"
           allow="fullscreen"
         />
